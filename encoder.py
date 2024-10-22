@@ -1,3 +1,5 @@
+# Wade Rogers
+
 def encode(password):
   encoded = ""
   for digit in password:
