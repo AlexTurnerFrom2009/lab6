@@ -1,4 +1,5 @@
-from encoder import *
+from encoder import encode
+from decoder import decode
 
 if __name__ == "__main__":
   expected_encode = "45678888"
